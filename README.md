@@ -6,8 +6,8 @@ Self-taught developer with 4+ years building web applications for schools and bu
 
 **Goal:** High-level Project Manager → Tech Company Founder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pacifique-ishimwe-1ab096194/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ishimwepacifique09@gmail.com)
 
 ---
 
@@ -19,6 +19,7 @@ Self-taught developer with 4+ years building web applications for schools and bu
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -28,13 +29,13 @@ Self-taught developer with 4+ years building web applications for schools and bu
 
 ## Featured Projects
 
-### [Project Name 1](YOUR_PROJECT_LINK)
-Brief description of what this project does and the problem it solves.  
-**Stack:** React • Node.js • PostgreSQL
+### [IdolAI](YOUR_PROJECT_LINK)
+AI-powered simulation platform to interact with influential figures and industry leaders. Get insights and understanding from simulated conversations with thought leaders like Elon Musk.  
+**Stack:** React • NestJS • PostgreSQL
 
-### [Project Name 2](YOUR_PROJECT_LINK)
-Brief description of what this project does and the problem it solves.  
-**Stack:** Django REST Framework • React • PostgreSQL
+### [Voting System](YOUR_PROJECT_LINK)
+Digital voting platform for student government elections in schools. Secure, transparent, and efficient election management system.  
+**Stack:** React • Node.js • PostgreSQL
 
 ### [Project Name 3](YOUR_PROJECT_LINK)
 Brief description of what this project does and the problem it solves.  
@@ -61,8 +62,8 @@ Projects focused on education, business, or digital transformation in Africa. Fu
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pacifique-ishimwe-1ab096194/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ishimwepacifique09@gmail.com)
 
 ---
 
