@@ -37,19 +37,6 @@ AI-powered simulation platform to interact with influential figures and industry
 Digital voting platform for student government elections in schools. Secure, transparent, and efficient election management system.  
 **Stack:** React • Node.js • PostgreSQL
 
-### [Project Name 3](YOUR_PROJECT_LINK)
-Brief description of what this project does and the problem it solves.  
-**Stack:** Express • React • Node.js
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Currently Learning
 
 Advanced PM methodologies • Cloud technologies (AWS/Azure) • DevOps & CI/CD • Leadership & team management
