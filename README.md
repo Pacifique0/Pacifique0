@@ -1,6 +1,6 @@
 # Pacifique Ishimwe
 
-**Full-Stack JavaScript Developer** | Rwanda 🇷🇼
+**Full-Stack Developer** | Rwanda 🇷🇼
 
 Self-taught developer with 4+ years building web applications for schools and businesses. Focused on digital transformation in Africa.
 
