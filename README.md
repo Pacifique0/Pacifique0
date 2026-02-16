@@ -1,10 +1,10 @@
 # Pacifique Ishimwe
 
-**Full-Stack Developer** | Rwanda 🇷🇼
+**Full-Stack JavaScript Developer** | Rwanda 🇷🇼
 
 Self-taught developer with 4+ years building web applications for schools and businesses. Focused on digital transformation in Africa.
 
-**Goal:** High-level Project Manager → Founder
+**Goal:** High-level Project Manager → Tech Company Founder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pacifique-ishimwe-1ab096194/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ishimwepacifique09@gmail.com)
@@ -22,6 +22,7 @@ Self-taught developer with 4+ years building web applications for schools and bu
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Also:** UI/UX Design • API Development • Project Management
 
@@ -36,6 +37,19 @@ AI-powered simulation platform to interact with influential figures and industry
 ### [Voting System](YOUR_PROJECT_LINK)
 Digital voting platform for student government elections in schools. Secure, transparent, and efficient election management system.  
 **Stack:** React • Node.js • PostgreSQL
+
+### [Project Name 3](YOUR_PROJECT_LINK)
+Brief description of what this project does and the problem it solves.  
+**Stack:** Express • React • Node.js
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true)
+
+---
 
 ## Currently Learning
 
