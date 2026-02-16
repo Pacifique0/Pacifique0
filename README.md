@@ -1,10 +1,10 @@
 # Pacifique Ishimwe
 
-**Full-Stack JavaScript Developer** | Rwanda 🇷🇼
+**Full-Stack Developer** | Rwanda 🇷🇼
 
 Self-taught developer with 4+ years building web applications for schools and businesses. Focused on digital transformation in Africa.
 
-**Goal:** High-level Project Manager → Tech Company Founder
+**Goal:** High-level Project Manager → Founder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pacifique-ishimwe-1ab096194/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ishimwepacifique09@gmail.com)
