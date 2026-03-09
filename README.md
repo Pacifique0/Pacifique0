@@ -28,22 +28,6 @@ Self-taught developer with 4+ years building web applications for schools and bu
 
 ---
 
-## Featured Projects
-
-### [IdolAI](YOUR_PROJECT_LINK)
-AI-powered simulation platform to interact with influential figures and industry leaders. Get insights and understanding from simulated conversations with thought leaders like Elon Musk.  
-**Stack:** React • NestJS • PostgreSQL
-
-### [Voting System](YOUR_PROJECT_LINK)
-Digital voting platform for student government elections in schools. Secure, transparent, and efficient election management system.  
-**Stack:** React • Node.js • PostgreSQL
-
-### [Project Name 3](YOUR_PROJECT_LINK)
-Brief description of what this project does and the problem it solves.  
-**Stack:** Express • React • Node.js
-
----
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
